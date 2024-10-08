@@ -9,7 +9,7 @@
   Contains the main function.
     
   * Environment.py\
-  Generates environments for queueing matching bandits. 
+  Generates environments for rotting bandits with infinite arms. 
   
   * Algorithms.py\
   Implements various bandit algorithms.
