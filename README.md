@@ -17,6 +17,7 @@
 
 ## How to run this code
 Please run these commands:
+
 For beta=1
  ```
  python3 main.py 1
